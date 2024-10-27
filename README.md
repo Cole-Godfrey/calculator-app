@@ -1,6 +1,18 @@
-# Getting Started with Create React App
+# Calculator App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple calculator built with React that supports basic arithmetic operations:
+- Addition (+)
+- Subtraction (-)
+- Multiplication (*)
+- Division (/)
+
+## Getting Started
+
+1. Clone this repository
+2. Run `npm install`
+3. Run `npm start`
+
+The calculator will open in your default browser at `http://localhost:3000`.
 
 ## Available Scripts
 
